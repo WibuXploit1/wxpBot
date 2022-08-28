@@ -18,7 +18,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "FakhriBot",
+    "name": "RidwanBot",
     "version": "1.2.3",
     "description": "No Description",
     "main": "index.js",
@@ -35,7 +35,7 @@ npm manifest:
       "bot-md",
       "multi-device"
     ],
-    "author": "FakhriGansz",
+    "author": "Ridwan Salman",
     "license": "MIT",
     "dependencies": {
       "@adiwajshing/baileys": "^4.1.0",
